@@ -20,3 +20,8 @@ optional: deactivate venv
 ```zsh
 deactivate
 ```
+
+
+## TODO
+- [ ] Setup 1password for ENV
+- [ ] [Pip requirements setup](https://realpython.com/lessons/using-requirement-files/)
